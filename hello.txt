@@ -1,1 +1,14 @@
 THis is my code
+Whole GIt + GITHUB TUTORIAL
+git init // To initliaize an empty repository
+git status // To check status of git
+git add . // To add all files in a folder to GIT
+git commit -m "First commit" // To Commit 
+git config --global user.email "haiderali.47007@gmail.com" // TO config GITHUB email with GIT
+git config --global user.name "HaiderAliCoder" // To Config GITHUB username with GIT
+git config user.name // To check if username entered is correct or not
+git config user.email // To check if email entered is correct or not
+git remote add origin https://github.com/HaiderAliCoder/Website.git // To add location or origion of the repository
+Always use Personal Access Token(PAT) as a password on GIT as passwords do not work since 2021.
+
+
